@@ -20,11 +20,13 @@ header, footer {
 }
 
 header {
-    background-color: rgb(201, 232, 201);
+    background-color: #d9eed9;
+    /* background-color: rgb(201, 232, 201); */
 }
 
 footer {
-    background-color: green;
+    background-color:  #124314;
+    /* background-color: green; */
     color: white;
 }
 
@@ -40,7 +42,7 @@ nav ul {
 
 nav ul li a {
     text-decoration: none;
-    color: rgb(29, 159, 29);
+    color: #4CAF50 ;
     border-radius: 4px;
     padding: 0.5rem -0.5rem;
     font-size: 1rem; 
